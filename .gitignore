@@ -1,0 +1,8 @@
+# Ignore frontend dependencies
+user-crud-frontend/node_modules/
+
+# Ignore backend build files
+/target/
+
+# Ignore logs
+*.log
